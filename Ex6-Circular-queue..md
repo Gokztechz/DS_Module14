@@ -60,4 +60,3 @@ return element;
 ## Result:
 Thus, the C program to delete three elements from the filled circular queue is implemented successfully.
 
-Thus, the C program to delete three elements from the filled circular queue is implemented successfully.
